@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Bash script that displays to infinity and beyond indefinitely
+# Bash script that displays To infinity and beyond indefinitely
 
-trap "echo i am invincible!!!" 15
+trap "echo I am invincible!!!" 15
 
 while ((1))
 do
